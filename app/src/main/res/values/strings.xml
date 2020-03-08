@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CertamenCalculadora</string>
+    <string name="id_generar">GENERAR NÚMEROS</string>
+    <string name="id_par">¿EL RESULTADO ES PAR?</string>
+    <string name="id_primo">¿EL RESULTADO ES PRIMO?</string>
+
+    <string name="id_txt_resultado">RESULTADO</string>
+    <string name="id_simbolo"> \? </string>
+    <string name="Error"> Error </string>
+    <string name="par"> ES PAR </string>
+    <string name="impar"> ES IMPAR </string>
+    <string name="primo"> ES PRIMO </string>
+    <string name="noPrimo"> NO ES PRIMO </string>
+
+
+
+</resources>
